@@ -11,7 +11,7 @@ model = genai.GenerativeModel("gemini-2.5-flash-lite")
 
 def ask_bot(question):
     response = model.generate_content(question)
-    return response.text
+    return response.texttttt
 
 if __name__ == "__main__":
     print("Welcome to Tiny AI Q&A Bot (Gemini Edition)! Type 'exit' to quit.")
