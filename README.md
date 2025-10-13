@@ -15,7 +15,7 @@ This project was created as part of an assignment to learn about APIs, command-l
 
 ⚙️ Setup Instructions
 
-### 1. Install Python
+1. Install Python
 Check if Python is installed:
 bash
 python --version
