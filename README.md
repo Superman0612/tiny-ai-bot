@@ -17,7 +17,7 @@ This project was created as part of an assignment to learn about APIs, command-l
 
 ### 1. Install Python
 Check if Python is installed:
-```bash
+bash
 python --version
 
 2. Clone the Repo
